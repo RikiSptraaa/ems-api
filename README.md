@@ -36,6 +36,8 @@ $ npx prisma migrate dev
 
 ## Compile and run the project
 
+Copy the .env.example and run the project with command below:
+
 ```bash
 # development
 $ npm run start
